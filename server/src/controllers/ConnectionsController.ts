@@ -1,5 +1,3 @@
-/* eslint-disable camelcase */
-/* eslint-disable class-methods-use-this */
 import { Request, Response } from 'express';
 import db from '../db/connection';
 

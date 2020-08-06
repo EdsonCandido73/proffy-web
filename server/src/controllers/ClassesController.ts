@@ -1,5 +1,3 @@
-/* eslint-disable camelcase */
-/* eslint-disable class-methods-use-this */
 import { Response, Request } from 'express';
 
 import convertHourToMinutes from "../utils/convertHourToMinutes";
@@ -31,7 +29,7 @@ export default class ClassesController {
       .whereExists(function () {
         this.select('class_schedule.*')
           .from('class_schedule')
-          .whereRaw('`class_schedule`.`class_id`')
+          .whereRaw('`class_schedule`.`class_id` = `classes`.íd`')
           .whereRaw('`class_schedule`.`week_day` = ??', [Number(week_day)])
           .whereRaw('`class_schedule`.`from` <= ??', [timeInMinutes])
           .whereRaw('`class_schedule`.`to` > ??', [timeInMinutes]);
@@ -87,7 +85,9 @@ export default class ClassesController {
     } catch (err) {
       await trx.rollback();
 
-      return res.status(400).json({ error: 'Unexpected error while creating new class.' });
+      return res.status(400).json({ 
+        error: 'Unexpected error while creating new class.' 
+      });
     }
   }
 }
