@@ -1,13 +1,13 @@
 <h1 align="center">
-    <img alt="Proffy" src=".github/logo.svg" height="100px" />
+    <img alt="Proffy" src=".github/logo.png" witdth="280" />
     <br>Next Level Week #2<br/>
     Node.js | ReactJS | React Native
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/HigorSnt/proffy?style=flat-square">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/HigorSnt/proffy?style=flat-square">
-  <img alt="GitHub" src="https://img.shields.io/github/license/HigorSnt/proffy?style=flat-square"> 
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EdsonCandido73/proffy-web?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EdsonCandido73/proffy-web?style=flat-square">
+  <img alt="GitHub" src="https://img.shields.io/github/license/EdsonCandido73/proffy-web?style=flat-square"> 
   <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1?style=flat-square"><br/>
 </p>
 <p align="center">
@@ -23,7 +23,7 @@
 
 ## :bookmark: Sobre
 
-O **Proffy** é uma aplicação Web e Mobile feita para auxiliar a conexão entre alunos e professores. Oferece aos professores a possibilidade de cadastrar e adicionar informações como disciplina, custo e horário das aulas particulares. Os alunos podem buscar pelos Proffys cadastrados filtrando por disciplina, data e horário, podendo também marcar um Proffy como.
+O **Proffy** é uma aplicação Web e Mobile feita para auxiliar a conexão entre alunos e professores. Oferece aos professores a possibilidade de cadastrar e adicionar informações como disciplina, custo e horário das aulas particulares. Os alunos podem buscar pelos Proffys cadastrados filtrando por disciplina, data e horário, podendo também marcar um Proffy como favorito.
     
 Este projeto foi desenvolvido durante a **Next Level Week #2**, ministrado por Diego Fernandes, CTO da [Rocketseat](https://rocketseat.com.br/).
 
@@ -37,7 +37,7 @@ Este projeto foi desenvolvido durante a **Next Level Week #2**, ministrado por D
 -  [Express](https://expressjs.com/)
 -  [axios](https://github.com/axios/axios)
 
-##  ⌨  Como executar o projeto
+## :boom: Como executar
 
 - ### **Pré-requisitos**
 
