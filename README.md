@@ -89,7 +89,7 @@ Este projeto foi desenvolvido durante a **Next Level Week #2**, ministrado por D
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 <sup>Projeto desenvolvido por [Edson Cândido](https://github.com/EdsonCandido73) com a tutoria de [Diego Fernandes](https://github.com/diego3g), da [Rocketseat](rocketseat.com.br).</sup>
