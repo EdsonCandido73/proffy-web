@@ -7,7 +7,6 @@
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EdsonCandido73/proffy-web?style=flat-square">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EdsonCandido73/proffy-web?style=flat-square">
-  <img alt="GitHub" src="https://img.shields.io/github/LICENSE/EdsonCandido73/proffy-web?style=flat-square"> 
   <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1?style=flat-square"><br/>
 </p>
 <p align="center">
